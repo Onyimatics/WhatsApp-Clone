@@ -1,4 +1,8 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/46a306a4-acfb-4232-8703-cbaa0ed83c1f/deploy-status)](https://app.netlify.com/sites/whatsappme/deploys)
+
 # WhatsAppClone
+
+- This projected was built with Angular 12, using Angular Material, Firebase, Angular Fire, with Google Authentication for Login and then deployed here [My WhatsApp Clone](https://whatsappme.netlify.app/).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
 
